@@ -31,3 +31,9 @@ Il existe fondamentalement deux types de sites web:
 **ATTENTION!**: Ne confordez pas un site dynamique avec un site animé. Un site animé peut-être static ou dynamique. C'est juste son interface utilisateur qui contient des effets d'animation pour accrocher l'internaute. ;)
 
 Mais comment réalise-t-on les pages du web ? Avec les **langages du web** dont la section suivante  en donnera une introduction.
+
+
+## Langages pour développer web
+Les langages incontournables de développement web sont **HTML** et le **CSS**. Avec ce couple inséparable, on peut réaliser des **design web** et même des sites statiques. Ces deux langages sont compris par les navigateurs qui retournent, à votre écran d'ordinateur, les pages codés par le développeur.
+
+Par ailleurs, nous avons aussi les langages dits de **backend**. Ces langages tournent essentiellement du côté serveur et génèrent automatiquement les pages demandées par un utilisateur quelconque. On décompte d'innombrable langage de backend.
