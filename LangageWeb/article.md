@@ -20,3 +20,5 @@ De nos jours, adopée aussi bien par les personnes physiques que morales, la toi
 ## Architecture du web
 Pour les utilisateurs, la toile est un ensemble de pages web. Une page contient souvent de nonbreux **liens** renvoyant à d'autres. Ce processus menant d'une page à une autre est appelé **hypertexte**. Les pages sont **hébergées** sur un serveur d'où l'internaute landa pourrait tirer les informations qu'il recherche. Pour ce faire, il besoin d'un appareil connecté et disposant de navigateur.
 
+![Alt](https://github.com/drxos/psychic-memory/blob/master/LangageWeb/LagagesWebIMG/simple-web.svg)
+
