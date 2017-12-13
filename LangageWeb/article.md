@@ -46,4 +46,4 @@ L'image ci-dessous fait juste état des Top 20 des langages utilisés en backend
 ## Conclusion
 Pour développer des sites web, il est essentiel de comprendre que le duo **HTML-CSS** ne peut être contourner. Ce duo est à la base de toute page web et est suffisant pour créer des sites statiques - sites avec des contenus prédéfinis -. Cependant, pour créer des sites dynamiques - sites avec des contenus générés par les utilisateurs -, il faut joindre à ce duo, un langage dit de backend.
 
-Les concepts de base énoncés ci-dessus étant compris, la prochaine étape pour un développeur web est de se mettre à la pratique avec des sites statiques ;-) **#PyDev229** .
+Les concepts de base énoncés ci-dessus étant compris, la prochaine étape pour un développeur web est de se mettre à la pratique avec des sites statiques.
