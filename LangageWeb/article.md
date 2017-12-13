@@ -1,9 +1,9 @@
 # Les Langages du Web
-**Comprendre le web**, est le premier pas vers l'expertise du développement de système à client léger. Cet article introduit la première saison du **#PyDev229**. Il va aborder les questions ci-après :
+**Comprendre le web**, est le premier pas vers l'expertise du développement de systèmes à client léger. Cet article introduit la première saison du **#PyDev229**. Il va aborder les questions ci-après :
 
 1. Le web, c'est quoi ?
 2. Architecture du web.
-3. Le web dynamique.
+3. Les langages pour développer web.
 
 ## Prerequis
 1. Motivation
@@ -18,27 +18,32 @@ Le web a été créé par un chercheur du CERN qui s'appelle Tim Berners-Lee. Co
 De nos jours, adopée aussi bien par les personnes physiques que morales, la toile favorise la vente de produits, le suport technique, la géolocalisation, ... Tenez! [La plate-forme virtuel de vente et d'achat de produits](https://oqenyite.com/ "Oqenyite, l'e-commerce tout simplement") en est un exemple palpable.
 
 ## Architecture du web
-Pour les utilisateurs, la toile est un ensemble de pages web. Une page contient souvent de nonbreux **liens** renvoyant à d'autres. Ce processus menant d'une page à une autre est appelé **hypertexte**. Les pages sont **hébergées** sur un serveur d'où l'internaute landa pourrait tirer les informations qu'il recherche. Pour ce faire, il besoin d'un appareil connecté et disposant de navigateur. Le schéma ci-après illustre bien et de façon simplifiée comment fonctionne le web dans la majeur partie des cas.
+Pour les utilisateurs, la toile est un ensemble de pages web. Une page contient souvent de nombreux **liens** renvoyant à d'autres pages. Ce processus menant d'une page à une autre est appelé **hypertexte**. Les pages sont **hébergées** sur un serveur d'où l'internaute landa pourrait tirer les informations qu'il recherche. Pour ce faire, il a besoin d'un appareil connecté et disposant d'un navigateur web. Le schéma ci-après illustre bien et de façon simplifiée comment fonctionne le web dans la majeur partie des cas.
 
 ![Architecture Simplifiée de Navigation Web](https://github.com/drxos/psychic-memory/blob/master/LangageWeb/LagagesWebIMG/simple-web.svg)
 
-Le serveur web aggrège un ou plusieurs **sites web**. Un site web est un ensemble de pages web qui concourent à un même objectif informationnel. C'est le cas d'une victrine d'entreprise, d'un blog, d'une webtv ...
+Le serveur web aggrège un ou plusieurs **sites web**. Un site web étant un ensemble de pages web qui concourent à un même objectif informationnel. C'est le cas d'une victrine d'entreprise, d'un blog, d'une webtv ...
 
 Il existe fondamentalement deux types de sites web:
-- Les sites statiques: C'est un ensemble de pages avec des contenus prédéfinis et qui ne font pas appel à une base de données.
-- Les sites dynamiques: Ici, les pages sont plutôt générées suivant les paramètres d'netrée. Les bases de données sont au coeur d'un tel site.
+- Les sites statiques: Un tel site est un ensemble de pages avec des contenus prédéfinis et qui ne font pas appel à une base de données.
+- Les sites dynamiques: Ici, les pages sont plutôt générées suivant des paramètres d'entrée. Les bases de données sont au coeur d'un tel site.
 
 **ATTENTION!**: Ne confordez pas un site dynamique avec un site animé. Un site animé peut-être static ou dynamique. C'est juste son interface utilisateur qui contient des effets d'animation pour accrocher l'internaute. ;)
 
 Mais comment réalise-t-on les pages du web ? Avec les **langages du web** dont la section suivante  en donnera une introduction.
 
 
-## Langages pour développer web
+## Les langages pour développer web
 Les langages incontournables de développement web sont **HTML** et le **CSS**. Avec ce couple inséparable, on peut réaliser des **design web** et même des sites statiques. Ces deux langages sont compris par les navigateurs qui retournent, à votre écran d'ordinateur, les pages codés par le développeur.
 
 Par ailleurs, nous avons aussi les langages dits de **backend**. Ces langages tournent essentiellement du côté serveur et génèrent automatiquement les pages demandées par un utilisateur quelconque. On décompte d'innombrable langage de backend. 
 
-L'image ci-dessous fait juste état des Top 20 des langages utilisés pour le développement web.
+L'image ci-dessous fait juste état des Top 20 des langages utilisés en backend.
 
 ![Web Languages: Top 20](https://github.com/drxos/psychic-memory/blob/master/LangageWeb/LagagesWebIMG/weblangages.png "Le Top 20, 2017, des langages du web")
 
+
+## Conclusion
+Pour développer des sites web, il est essentiel de comprendre que le duo **HTML-CSS** ne peut être contourner. Ce duo est à la base de toute page web et est suffisant pour créer des sites statiques - sites avec des contenus prédéfinis -. Cependant, pour créer des sites dynamiques - sites avec des contenus générés par les utilisateurs -, il faut joindre à ce duo, un langage dit de backend.
+
+Les concepts de base énoncés ci-dessus étant compris, la prochaine étape pour un développeur web est de se mettre à la pratique avec des sites statiques.
