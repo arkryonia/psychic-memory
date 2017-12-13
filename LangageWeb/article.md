@@ -3,7 +3,7 @@
 
 1. Le web, c'est quoi ?
 2. Architecture du web.
-3. Le web dynamique.
+3. Les langages pour développer web.
 
 ## Prerequis
 1. Motivation
@@ -33,12 +33,17 @@ Il existe fondamentalement deux types de sites web:
 Mais comment réalise-t-on les pages du web ? Avec les **langages du web** dont la section suivante  en donnera une introduction.
 
 
-## Langages pour développer web
+## Les langages pour développer web
 Les langages incontournables de développement web sont **HTML** et le **CSS**. Avec ce couple inséparable, on peut réaliser des **design web** et même des sites statiques. Ces deux langages sont compris par les navigateurs qui retournent, à votre écran d'ordinateur, les pages codés par le développeur.
 
 Par ailleurs, nous avons aussi les langages dits de **backend**. Ces langages tournent essentiellement du côté serveur et génèrent automatiquement les pages demandées par un utilisateur quelconque. On décompte d'innombrable langage de backend. 
 
-L'image ci-dessous fait juste état des Top 20 des langages utilisés pour le développement web.
+L'image ci-dessous fait juste état des Top 20 des langages utilisés en backend.
 
 ![Web Languages: Top 20](https://github.com/drxos/psychic-memory/blob/master/LangageWeb/LagagesWebIMG/weblangages.png "Le Top 20, 2017, des langages du web")
 
+
+## Conclusion
+Pour développer des sites web, il est essentiel de comprendre que le duo **HTML-CSS** ne peut être contourner. Ce duo est à la base de toute page web et est suffisant pour créer des sites statiques - sites avec des contenus prédéfinis -. Cependant, pour créer des sites dynamiques - sites avec des contenus générés par les utilisateurs -, il faut joindre à ce duo, un langage dit de backend.
+
+Les concepts de base énoncés ci-dessus étant compris, la prochaine étape pour un développeur web est de se mettre à la pratique avec des sites statiques ;-) **#PyDev229** .
