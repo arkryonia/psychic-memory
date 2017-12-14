@@ -13,7 +13,7 @@
 
 Le world wide web, ou simplement, le web est une application de l'Internet. Également appelé **la toile**, il a radicalement changé le monde en attirant sur internet, des millions d'utilisateurs.
 
-Le web a été créé par un chercheur du CERN qui s'appelle Tim Berners-Lee. Combinée avec le nagigateur Mosaïc, écrit par Marc Andreessen du NCSA, le web a facilité grandement l'utilisation de l'internet, en permettant à un site de proposer plusieurs pages d'informations contenant du texte, des images, du son et même des vidéos, ainsi que des liens vers d'autres pages.
+Le web a été créé par un chercheur du CERN qui s'appelle Tim Berners-Lee. Combinée avec le navigateur Mosaïc, écrit par Marc Andreessen du NCSA, le web a facilité grandement l'utilisation de l'internet, en permettant à un site de proposer plusieurs pages d'informations contenant du texte, des images, du son et même des vidéos, ainsi que des liens vers d'autres pages.
 
 De nos jours, adopée aussi bien par les personnes physiques que morales, la toile favorise la vente de produits, le suport technique, la géolocalisation, ... Tenez! [La plate-forme virtuel de vente et d'achat de produits](https://oqenyite.com/ "Oqenyite, l'e-commerce tout simplement") en est un exemple palpable.
 
